@@ -82,4 +82,4 @@ Feel free to fork, explore, or adapt the structure for your own FPS system exper
 
 🔖 Tags
 
-#FPS #FirstPersonShooter #ARC_Raiders #GameDev #GameSystems #Targeting #ShooterMechanics #GameplayProgramming #GameAI #IndieDev #OpenSource #Experimental #FPSResearch
+#FPS -FirstPersonShooter -ARC_Raiders -GameDev -GameSystems -Targeting -ShooterMechanics -GameplayProgramming -GameAI -IndieDev -OpenSource -Experimental -FPSResearch
