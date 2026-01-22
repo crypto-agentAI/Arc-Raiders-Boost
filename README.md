@@ -1,9 +1,11 @@
-🎯 ARC Raiders Targeting Systems Framework
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/a1558b4c-454d-4823-92ef-a8bd38177df9" />🎯 ARC Raiders Targeting Systems Framework
 
 A modular experimental framework focused on precision targeting logic, motion analysis, and configurable aiming models for modern third-person shooter mechanics.
 
 This repository presents a concept-level implementation of targeting system architecture designed for research, prototyping, and technical exploration.
-![Preview]([https://raw.githubusercontent.com/USER/REPO/main/preview.png](https://github.com/timlangner/RaiderBuddy/raw/main/screenshots/events.png))
+
+![Preview](https://hone.gg/blog/wp-content/uploads/2025/11/ARCRaiders_ScreenShot_TT2_06-1680x945-1-1024x576.png)
+
 
 🚀 Overview
 
